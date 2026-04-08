@@ -1,0 +1,17 @@
+{
+  "sortnum": 2,
+  "name": "se.srelic.dice_effect",
+  "icon": "srelic:rainbow_star",
+  "category": "srelic:universal",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "srelic:rainbow_star",
+      "text": "se.srelic.dice_effect.desc"
+    },
+    {
+      "type": "text",
+      "text": "se.srelic.dice_effect.text"
+    }
+  ]
+}

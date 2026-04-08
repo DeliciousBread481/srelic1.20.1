@@ -1,0 +1,35 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:power"
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:the_wolf",
+  "properties": {
+    "attack_base": 40.0,
+    "max_damage": 200,
+    "slash_art": "srelic:big_drive",
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:wolf_soul"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/genshine/the_wolf.obj",
+    "summon_sword_color": 12779520,
+    "texture": "srelic:model/genshine/the_wolf.png"
+  }
+}

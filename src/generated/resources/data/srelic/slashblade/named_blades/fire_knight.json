@@ -1,0 +1,41 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 5
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:fire_knight",
+  "properties": {
+    "attack_base": 23.0,
+    "max_damage": 200,
+    "slash_art": "slashblade:piercing",
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:blazing_heart_shield",
+      "srelic:path_of_preservation"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/stairail/fire_knight.obj",
+    "summon_sword_color": 16760832,
+    "texture": "srelic:model/stairail/fire_knight.png"
+  }
+}

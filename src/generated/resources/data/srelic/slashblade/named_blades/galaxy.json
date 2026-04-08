@@ -1,0 +1,35 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 3
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:galaxy",
+  "properties": {
+    "attack_base": 35.0,
+    "max_damage": 200,
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:thunderstorm_slash"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/honkai/galaxy.obj",
+    "summon_sword_color": 60159,
+    "texture": "srelic:model/honkai/galaxy.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 3
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:redsakura",
+  "properties": {
+    "attack_base": 27.0,
+    "max_damage": 200,
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:blood_sakura"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/honkai/redsakura.obj",
+    "summon_sword_color": 16711697,
+    "texture": "srelic:model/honkai/redsakura.png"
+  }
+}

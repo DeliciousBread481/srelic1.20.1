@@ -1,0 +1,36 @@
+{
+  "type": "srelic:srelic_blade",
+  "blade": "srelic:spring",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:tnt"
+    },
+    "B": {
+      "item": "minecraft:weeping_vines"
+    },
+    "C": {
+      "item": "minecraft:nether_star"
+    },
+    "D": {
+      "item": "srelic:sakura_steel_ingot"
+    },
+    "E": {
+      "type": "slashblade:blade",
+      "item": "srelic:srelic_slashblade",
+      "request": {
+        "name": "srelic:blade",
+        "proud_soul": 3000
+      }
+    }
+  },
+  "pattern": [
+    "  A",
+    "BCD",
+    "ED "
+  ],
+  "result": {
+    "item": "srelic:srelic_slashblade"
+  },
+  "show_notification": true
+}

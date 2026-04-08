@@ -1,0 +1,23 @@
+{
+  "sortnum": 1,
+  "name": "item.srelic.emberquill",
+  "icon": "srelic:emberquill",
+  "category": "srelic:arrow",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "srelic:emberquill",
+      "text": "patchouli.srelic.emberquill.name"
+    },
+    {
+      "type": "crafting",
+      "title": "painting.srelic.huoqu.title",
+      "recipe": "srelic:emberquill",
+      "text": "patchouli.srelic.book.seele.arrow.emberquill.pages.0.text"
+    },
+    {
+      "type": "text",
+      "text": "patchouli.srelic.book.seele.arrow.emberquill.pages.1.text"
+    }
+  ]
+}
