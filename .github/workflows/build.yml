@@ -2,9 +2,9 @@ name: Build
   
 on:  
   push:  
-    branches: [ "master-bread1" ]  
+    branches: [ "master-bread" ]  
   pull_request:  
-    branches: [ "master-bread1" ]  
+    branches: [ "master-bread" ]  
   workflow_dispatch:  
   
 jobs:  

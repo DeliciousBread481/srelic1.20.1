@@ -36,6 +36,7 @@ public class InfernoThousandTrials extends SpecialEffect {
     @SubscribeEvent
     public static void onAttack(LivingHurtEvent event) {
         if (!(event.getSource().getEntity() instanceof Player player)) return;
+        if (event.getEntity() == player) return;
         if (!SlashBladeUtil.hasSpecialEffect(player, SRSpecialEffectsRegistry.INFERNO_THOUSAND_TRIALS.get())) {
             // 新增: 移除无特效玩家的攻击计数
             attackCountMap.remove(player);
