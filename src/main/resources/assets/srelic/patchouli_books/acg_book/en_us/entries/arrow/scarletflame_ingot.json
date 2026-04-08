@@ -1,0 +1,22 @@
+{
+  "sortnum": 1,
+  "name": "item.srelic.scarletflame_ingot",
+  "icon": "srelic:scarletflame_ingot",
+  "category": "srelic:arrow",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "srelic:scarletflame_ingot",
+      "text": "patchouli.srelic.scarletflame_ingot.name"
+    },
+    {
+      "type": "crafting",
+      "title": "painting.srelic.huoqu.title",
+      "recipe": "srelic:scarletflame_ingot"
+    },
+    {
+      "type": "text",
+      "text": "patchouli.srelic.book.seele.arrow.scarletflame_ingot.pages.0.text"
+    }
+  ]
+}

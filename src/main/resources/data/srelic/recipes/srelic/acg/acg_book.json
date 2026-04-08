@@ -1,0 +1,12 @@
+{
+  "type": "patchouli:shapeless_book_recipe",
+  "ingredients": [
+     {
+       "item": "slashblade:proudsoul"
+     },
+     {
+       "item": "minecraft:book"
+     }
+  ],
+  "book":"srelic:acg_book"
+}

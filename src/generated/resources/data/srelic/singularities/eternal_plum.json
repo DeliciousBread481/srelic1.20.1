@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "cd7f32",
+    "d9d919"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:eternal_plum"
+  },
+  "name": "item.srelic.eternal_plum",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

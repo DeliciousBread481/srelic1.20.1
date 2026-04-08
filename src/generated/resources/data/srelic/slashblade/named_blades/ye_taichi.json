@@ -1,0 +1,40 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 4
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:ye_taichi",
+  "properties": {
+    "attack_base": 25.0,
+    "max_damage": 200,
+    "slash_art": "slashblade:wave_edge",
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:flame_erosion"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/ornament/ye_taichi.obj",
+    "summon_sword_color": 13504014,
+    "texture": "srelic:model/ornament/ye_taichi.png"
+  }
+}

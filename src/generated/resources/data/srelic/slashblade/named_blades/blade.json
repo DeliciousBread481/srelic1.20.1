@@ -1,0 +1,20 @@
+{
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:blade",
+  "properties": {
+    "attack_base": 6.0,
+    "max_damage": 200,
+    "special_effects": [
+      "srelic:white_maker"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/blade/blade.obj",
+    "summon_sword_color": 16777215,
+    "texture": "srelic:model/blade/blade.png"
+  }
+}

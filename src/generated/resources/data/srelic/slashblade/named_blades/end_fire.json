@@ -1,0 +1,53 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:feather_falling",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:fire_protection",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:looting",
+      "lvl": 5
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:end_fire",
+  "properties": {
+    "attack_base": 40.0,
+    "max_damage": 200,
+    "slash_art": "srelic:neo_drive",
+    "special_effects": [
+      "srelic:flamerosion",
+      "srelic:maxbreak",
+      "srelic:white_maker"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/honkai/end_fire.obj",
+    "summon_sword_color": 16760832,
+    "texture": "srelic:model/honkai/end_fire.png"
+  }
+}

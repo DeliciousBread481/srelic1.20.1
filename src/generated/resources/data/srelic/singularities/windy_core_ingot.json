@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "238e68",
+    "ff7f"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:windy_core_ingot"
+  },
+  "name": "item.srelic.windy_core_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

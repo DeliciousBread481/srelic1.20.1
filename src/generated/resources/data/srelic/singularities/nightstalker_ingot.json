@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "bc1717",
+    "ff2400"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:nightstalker_ingot"
+  },
+  "name": "item.srelic.nightstalker_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

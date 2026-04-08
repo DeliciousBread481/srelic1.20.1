@@ -1,0 +1,20 @@
+{
+  "values": [
+    "srelic:max_helmet",
+    "srelic:max_chestplate",
+    "srelic:max_leggings",
+    "srelic:max_boots",
+    "srelic:diamond_block_helmet",
+    "srelic:diamond_block_chestplate",
+    "srelic:diamond_block_leggings",
+    "srelic:diamond_block_boots",
+    "srelic:sky_helmet",
+    "srelic:sky_chestplate",
+    "srelic:sky_leggings",
+    "srelic:sky_boots",
+    "srelic:ocean_helmet",
+    "srelic:ocean_chestplate",
+    "srelic:ocean_leggings",
+    "srelic:ocean_boots"
+  ]
+}

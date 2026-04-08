@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "7f00ff",
+    "9c"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:phantom_trace_ingot"
+  },
+  "name": "item.srelic.phantom_trace_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "3232cd",
+    "7f00ff"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:dreamweave_ingot"
+  },
+  "name": "item.srelic.dreamweave_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

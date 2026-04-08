@@ -1,0 +1,34 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:fire_aspect"
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:rappa",
+  "properties": {
+    "attack_base": 23.0,
+    "max_damage": 200,
+    "slash_art": "srelic:rappa",
+    "special_effects": [
+      "srelic:white_maker"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/stairail/rappa.obj",
+    "summon_sword_color": 16711697,
+    "texture": "srelic:model/util/rappa.png"
+  }
+}

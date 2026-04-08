@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "ffff",
+    "3232cd"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:oceanic_netherite_alloy"
+  },
+  "name": "item.srelic.oceanic_netherite_alloy",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

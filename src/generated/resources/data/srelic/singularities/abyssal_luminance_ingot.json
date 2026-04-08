@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "ffff",
+    "ff"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:abyssal_luminance_ingot"
+  },
+  "name": "item.srelic.abyssal_luminance_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

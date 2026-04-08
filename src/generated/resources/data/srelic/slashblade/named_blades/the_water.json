@@ -1,0 +1,36 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:feather_falling",
+      "lvl": 5
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:the_water",
+  "properties": {
+    "attack_base": 23.0,
+    "max_damage": 200,
+    "slash_art": "slashblade:wave_edge",
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:aquatic_sanctuary"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "katana",
+    "model": "srelic:model/genshine/the_water.obj",
+    "summon_sword_color": 2003199,
+    "texture": "srelic:model/genshine/sword_of_narzissenkreuz.png"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "c0d9d9",
+    "ffff"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:frozen_netherite_alloy"
+  },
+  "name": "item.srelic.frozen_netherite_alloy",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

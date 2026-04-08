@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "d19275",
+    "ffffff"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:scarletflame_ingot"
+  },
+  "name": "item.srelic.scarletflame_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

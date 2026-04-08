@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "ff7f00",
+    "ff2400"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:flame_netherite_alloy"
+  },
+  "name": "item.srelic.flame_netherite_alloy",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "eaadea",
+    "0"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:sakura_steel_ingot"
+  },
+  "name": "item.srelic.sakura_steel_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

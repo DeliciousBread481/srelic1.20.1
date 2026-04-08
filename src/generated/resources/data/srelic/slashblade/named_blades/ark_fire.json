@@ -1,0 +1,43 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:fire_aspect"
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:looting",
+      "lvl": 2
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:ark_fire",
+  "properties": {
+    "attack_base": 20.0,
+    "max_damage": 200,
+    "slash_art": "srelic:xdrive",
+    "special_effects": [
+      "srelic:flamerosion",
+      "srelic:white_maker"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/honkai/ark_fire.obj",
+    "summon_sword_color": 16760832,
+    "texture": "srelic:model/honkai/ark_fire.png"
+  }
+}

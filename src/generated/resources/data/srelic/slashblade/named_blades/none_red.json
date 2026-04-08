@@ -1,0 +1,44 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 9
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 7
+    },
+    {
+      "id": "minecraft:sweeping",
+      "lvl": 4
+    },
+    {
+      "id": "minecraft:mending"
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:none_red",
+  "properties": {
+    "attack_base": 40.0,
+    "max_damage": 200,
+    "slash_art": "srelic:dead_cry",
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:lament_of_phantoms",
+      "srelic:void_finale"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/stairail/none.obj",
+    "summon_sword_color": 13504014,
+    "texture": "srelic:model/stairail/none_red.jpg"
+  }
+}

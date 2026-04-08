@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "426f42",
+    "238e68"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:ender_metal"
+  },
+  "name": "item.srelic.ender_metal",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

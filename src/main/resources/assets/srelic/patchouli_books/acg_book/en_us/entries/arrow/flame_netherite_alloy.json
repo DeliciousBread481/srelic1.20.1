@@ -1,0 +1,27 @@
+{
+  "sortnum": 1,
+  "name": "item.srelic.flame_netherite_alloy",
+  "icon": "srelic:flame_netherite_alloy",
+  "category": "srelic:arrow",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "srelic:flame_netherite_alloy",
+      "text": "patchouli.srelic.book.entries.arrow.flame_netherite_alloy.pages.0.text"
+    },
+    {
+      "type": "multiblock",
+      "name": "tips.flame_netherite_alloy.name",
+      "multiblock": {
+        "pattern": [
+          ["0"],["_"]
+        ],
+        "mapping": {
+          "0": "minecraft:magma_block"
+        },
+        "symmetrical": true
+      },
+        "text": "tips.flame_netherite_alloy.name_tip"
+    }
+  ]
+}

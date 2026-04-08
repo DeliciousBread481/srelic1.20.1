@@ -1,0 +1,46 @@
+{
+  "type": "srelic:srelic_blade",
+  "blade": "srelic:the_wolf",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    },
+    "B": {
+      "tag": "forge:ingots/netherite"
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1000,
+        "name": "slashblade:rodai_netherite"
+      }
+    },
+    "D": {
+      "item": "srelic:compressed_alloy"
+    },
+    "E": {
+      "type": "slashblade:blade",
+      "item": "srelic:srelic_slashblade",
+      "request": {
+        "name": "srelic:blade"
+      }
+    },
+    "F": {
+      "tag": "forge:gems/diamond"
+    },
+    "G": {
+      "item": "srelic:fel_metal"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "AGA"
+  ],
+  "result": {
+    "item": "srelic:srelic_slashblade"
+  },
+  "show_notification": true
+}

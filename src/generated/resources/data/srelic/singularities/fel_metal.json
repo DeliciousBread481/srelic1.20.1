@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "7f00ff",
+    "0"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:fel_metal"
+  },
+  "name": "item.srelic.fel_metal",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

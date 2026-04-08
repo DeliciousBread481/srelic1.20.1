@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "ff2400",
+    "db70db"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:max_ingot"
+  },
+  "name": "item.srelic.max_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

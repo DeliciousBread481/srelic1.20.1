@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "4a766e",
+    "0"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:demon_ingot"
+  },
+  "name": "item.srelic.demon_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

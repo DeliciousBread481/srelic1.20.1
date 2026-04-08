@@ -1,0 +1,37 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 3
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:jinyuan",
+  "properties": {
+    "attack_base": 22.0,
+    "max_damage": 200,
+    "slash_art": "srelic:bigslash",
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:path_of_the_hunt",
+      "srelic:jingyuan_thunder"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/stairail/jinyuan.obj",
+    "summon_sword_color": 14665221,
+    "texture": "srelic:model/stairail/jinyuan.png"
+  }
+}

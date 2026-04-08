@@ -1,0 +1,36 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 3
+    }
+  ],
+  "item": "srelic:srelic_slashblade",
+  "name": "srelic:lightning",
+  "properties": {
+    "attack_base": 25.0,
+    "max_damage": 200,
+    "slash_art": "srelic:summoning_thunder_ni",
+    "special_effects": [
+      "srelic:white_maker",
+      "srelic:chaos_breaker"
+    ],
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "srelic:model/honkai/lightning.obj",
+    "summon_sword_color": 11862271,
+    "texture": "srelic:model/honkai/lightning.png"
+  }
+}

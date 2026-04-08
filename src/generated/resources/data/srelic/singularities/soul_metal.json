@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "d9d919",
+    "ff0000"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:soul_metal"
+  },
+  "name": "item.srelic.soul_metal",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

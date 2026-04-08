@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "8e236b",
+    "8e2323"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:nightmare_core_ingot"
+  },
+  "name": "item.srelic.nightmare_core_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

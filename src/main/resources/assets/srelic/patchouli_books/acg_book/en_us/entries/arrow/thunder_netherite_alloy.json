@@ -1,0 +1,27 @@
+{
+  "sortnum" : 1,
+  "name" : "item.srelic.thunder_netherite_alloy",
+  "icon" : "srelic:thunder_netherite_alloy",
+  "category" : "srelic:arrow",
+  "pages" : [
+    {
+      "type" : "spotlight",
+      "item" : "srelic:thunder_netherite_alloy",
+      "text" : "patchouli.srelic.book.entries.arrow.thunder_netherite_alloy.pages.0.text"
+    },
+    {
+      "type": "multiblock",
+      "name": "tips.thunder_netherite_alloy.name",
+      "multiblock": {
+        "pattern": [
+          ["0"],["_"]
+        ],
+        "mapping": {
+          "0": "minecraft:lightning_rod"
+        },
+        "symmetrical": true
+      },
+      "text": "tips.thunder_netherite_alloy.name_tip"
+    }
+  ]
+}

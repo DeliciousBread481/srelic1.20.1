@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "4d4dff",
+    "ff"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:thunder_netherite_alloy"
+  },
+  "name": "item.srelic.thunder_netherite_alloy",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

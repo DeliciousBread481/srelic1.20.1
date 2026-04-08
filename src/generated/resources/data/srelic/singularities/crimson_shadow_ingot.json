@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "eaadea",
+    "e0ea47"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:crimson_shadow_ingot"
+  },
+  "name": "item.srelic.crimson_shadow_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

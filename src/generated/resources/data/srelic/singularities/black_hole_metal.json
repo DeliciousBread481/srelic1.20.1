@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "ffffff",
+    "0"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:black_hole_metal"
+  },
+  "name": "item.srelic.black_hole_metal",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}

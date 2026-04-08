@@ -1,0 +1,13 @@
+{
+  "colors": [
+    "9932cd",
+    "ffffff"
+  ],
+  "enabled": true,
+  "ingredient": {
+    "item": "srelic:void_ingot"
+  },
+  "name": "item.srelic.void_ingot",
+  "recipeDisabled": false,
+  "timeRequired": 240
+}
